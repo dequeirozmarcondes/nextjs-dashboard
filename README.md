@@ -1,5 +1,8 @@
-## Next.js App Router Course - Starter
+## Curso Inicial Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Este é um curso de Next.js fornecido gratuitamente pela Vercel. O Next.js é um poderoso Framework para a bilioteca React.js
+Já consolidado no mercado. Com o Next cé possível cobrir praticamente todo tipo e tamanho de projeto de software Web e Mobile com o React e React Native.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Fique a vontade para explorar o projeto e saber oque eu aprendi neste curso incrível. Espero que goste.
+
+Para obter mais informações, consulte o [currículo do curso](https://nextjs.org/learn) no site Next.js.

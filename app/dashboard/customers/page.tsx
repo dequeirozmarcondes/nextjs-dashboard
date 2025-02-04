@@ -1,5 +1,5 @@
 export default function Page() {
-  const name = ["Kassy", "Kassy", "Kassy", "Kassy", "Kassy", "Kassy"];
+  const name = ["Teste", "Teste", "Teste", "Teste", "Teste", "Teste"];
   const fontSizes = [
     "text-2xl",
     "text-3xl",
